@@ -1,6 +1,6 @@
 # Web Security Scanner
 A Python tool that checks a website's HTTP security headers, scores them out of 100, grades the result from A+ to F, and tells you how to fix what is missing.
-I built it as my final-year project for BSc Computer Science (Cyber Security and Networks) at the University of Hertfordshire. The full write-up is in [`docs/WebVulScannerReport.docx`](docs/WebVulScannerReport.docx).
+I built it as my final-year project for BSc Computer Science (Cyber Security and Networks) at the University of Hertfordshire. The full write-up is in [`WebVulScannerReport.pdf`](docs/WebVulScannerReport.pdf).
 
 ## What it does
 - Fetches the response headers for a URL and analyses them against OWASP-based rules
