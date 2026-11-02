@@ -88,5 +88,4 @@ Batch scanning, scheduled scans with email reports, richer dashboards, an API fo
 ## Author
 Vrajkumar Patel
 [LinkedIn](https://linkedin.com/in/vrajkumar-patel-9599b2227)
-Vrajkumar Patel
-[LinkedIn](https://linkedin.com/in/vrajkumar-patel-9599b2227)
+
